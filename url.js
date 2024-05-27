@@ -9,6 +9,6 @@
 
 const urls = [
 	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://docs.google.com/forms/d/e/1FAIpQLSfvxuq5ZOhP9JEe-oWLrlJ2AYdaTrBPOMto86O6gW4EwOeZkQ/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/e/1FAIpQLSd3gnqlfjskwiEdZGNYIbMEMWoY-TnyROfjokR59Jwh7Mj73A/viewform?usp=sf_link'
 ];
